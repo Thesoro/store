@@ -4,13 +4,13 @@ This rails app can take product information (currently only name and price) and 
 
 ---
 
-*Ruby Version: 2.0.0p247
+* Ruby Version: 2.0.0p247
 
-*Rails Version: 4.0.2
+* Rails Version: 4.0.2
 
-*Database is standard Rails SQLite. Initialize using `rake db:migrate`
+* Database is standard Rails SQLite. Initialize using `rake db:migrate`
 
-*Reliant on Zurb Foundation 4.3.2
+* Reliant on Zurb Foundation 4.3.2
 
 ---
 
